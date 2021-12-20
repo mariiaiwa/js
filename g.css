@@ -1,0 +1,19 @@
+@font-face {
+    font-family: serif;
+}
+body{
+    font-family: serif;
+    background-color:#696969;
+}
+#result{
+    color: pink;
+    text-align: center;
+    font-size: 86px;
+    padding:5%;
+}
+.container {
+    border: 12px solid pink;
+    padding: 6%;
+    display: flex;
+    justify-content: space-around;
+}
